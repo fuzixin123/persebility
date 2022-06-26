@@ -1,6 +1,7 @@
 # persebility
 
-<<<<<<< HEAD
+我做了修改
+
 persebility[All]:解决冲突
 =======
 abc123456个红包红包1
